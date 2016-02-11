@@ -3,5 +3,4 @@
 	<li>Bananas</li>
 	<li>Fish</li>
 	<li>Red Bull</li>
-	<li>cookies</li>
 </ul>
